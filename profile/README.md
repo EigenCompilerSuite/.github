@@ -20,12 +20,14 @@ The compiler kit itself is implemented in C++17 and platform independent. The as
 - WebAssembly
 - and some others
 
-Code generators for the following platforms/operating systems are supported:
+Code generators and linkers for the following platforms/operating systems are available:
 
 - Linux
 - Windows
 - macOS
 - Raspberry Pi 
+- DOS
+- Atari TOS
 - Bare metal and embedded systems
 - and more
 
@@ -41,6 +43,10 @@ There is an extensive user manual available. All features of the Eigen Compiler 
 This site includes an inofficial mirror of the source code usually distributed in compressed tar by the author.
 
 - [Source repository](https://github.com/EigenCompilerSuite/sources)
+
+### Precompiled binaries
+
+- [Windows x86, self-extracting](https://software.openbrace.org/attachments/241/ecs-0.0.40.exe)
 
 ### Live Demo
 
