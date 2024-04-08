@@ -4,19 +4,19 @@ This is an inofficial mirror of parts of https://ecs.openbrace.org/.
 
 The Eigen Compiler Suite is a software development toolchain. It contains tools like compilers, pretty printers, interpreters, assemblers, and linkers targeting a variety of programming languages and hardware architectures. 
 
-The Eigen Compiler Suite is particularly suited as a compiler kit and helps you to build your own compiler; the compiler kit features an intermediate language, assemblers, disassemblers, and interpreters. 
+The Eigen Compiler Suite is particularly suited as a compiler kit and helps you to build your own compiler; the compiler kit features a documented intermediate language with assembler, disassembler, and interpreter. 
 
-The compiler kit itself is implemented in C++17 and platform independent. The assembler and code generators support the following hardware architectures:
+The compiler kit itself is implemented in C++17 and platform independent. The assemblers and code generators support the following hardware architectures:
 
 - Intel/AMD x86_64 and x86
-- Virtual-8086 and Real Mode
-- ARM 32 and 64 bit
+- Virtual 8086 and Real Mode
+- ARM 64 and 32 bit (including thumb)
 - Amtel AVR and AVR32
 - Motorola 68000
 - Xilinx MicroBlaze 
-- MIPS 32 and 64 bit
+- MIPS 64 and 32 bit
 - OpenCores OpenRISC 1000
-- PowerPC 32 and 64 bit
+- PowerPC 64 and 32 bit
 - WebAssembly
 - and some others
 
