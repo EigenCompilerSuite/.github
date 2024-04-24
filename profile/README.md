@@ -35,8 +35,8 @@ Code generators and linkers for the following platforms/operating systems are av
 
 There is an extensive user manual available. All features of the Eigen Compiler Suite and especially the usage of its toolchain are documented in detail. For all major components like implementations of a programming language or supported hardware architectures, there are consistent documentations available which describe the usage of the corresponding component and its implementation by the Eigen Compiler Suite. This user manual merges all of these documentations into a single document. The user manual is available online and as a PDF:
 
-- [online](https://ecs.openbrace.org/manual/)
-- [PDF](https://software.openbrace.org/attachments/239), 524 pages.
+- [Online](https://ecs.openbrace.org/manual/)
+- [PDF](https://software.openbrace.org/attachments/239), 524 pages
 
 ### Source Code
 
