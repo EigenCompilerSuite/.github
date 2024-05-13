@@ -11,6 +11,7 @@ The compiler kit itself is implemented in C++17 and platform independent. The as
 - Intel/AMD x86_64 and x86
 - Virtual 8086 and Real Mode
 - ARM 64 and 32 bit (including thumb)
+- Xtensa LX6 32 bit (Espressif ESP32)
 - Amtel AVR and AVR32
 - Motorola 68000
 - Xilinx MicroBlaze 
@@ -36,7 +37,7 @@ Code generators and linkers for the following platforms/operating systems are av
 There is an extensive user manual available. All features of the Eigen Compiler Suite and especially the usage of its toolchain are documented in detail. For all major components like implementations of a programming language or supported hardware architectures, there are consistent documentations available which describe the usage of the corresponding component and its implementation by the Eigen Compiler Suite. This user manual merges all of these documentations into a single document. The user manual is available online and as a PDF:
 
 - [Online](https://ecs.openbrace.org/manual/)
-- [PDF](https://software.openbrace.org/attachments/239), 524 pages
+- [PDF](https://software.openbrace.org/attachments/269), 544 pages
 
 ### Source Code
 
@@ -46,7 +47,7 @@ This site includes an inofficial mirror of the source code usually distributed i
 
 ### Precompiled binaries
 
-- [Windows x86, self-extracting](https://software.openbrace.org/attachments/241/ecs-0.0.40.exe)
+- [Windows x86, self-extracting](https://software.openbrace.org/attachments/271)
 
 ### Live Demo
 
